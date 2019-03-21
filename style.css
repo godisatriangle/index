@@ -60,7 +60,7 @@ li {
   margin: 0 20px;
   transition: 0.6s ease;
 }
-li:hover {
+#grow li:hover {
   font-size: 1.2em;
   transition: 0.6s ease;
 }
